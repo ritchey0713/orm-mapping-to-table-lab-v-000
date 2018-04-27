@@ -16,8 +16,12 @@ def self.create_table
     id PRIMARY KEY INTEGER, 
     name TEXT, 
     grade TEXT
-    )
-    SQL 
+    ) 
+    SQL
+     
+  
+  
+  end 
     
     
   
