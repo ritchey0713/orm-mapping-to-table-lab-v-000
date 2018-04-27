@@ -33,7 +33,8 @@ class Student
       INSERT IN students (name, grades)
       VALUES (?,?)
     SQL
-      
+    
+    db[:conn]  
   end 
     
   
