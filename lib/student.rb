@@ -36,7 +36,7 @@ class Student
   DB[:conn].execute(sql, student.name, student.grade)  
   end
   
-  
+  def 
     
   
 
